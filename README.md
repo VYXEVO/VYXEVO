@@ -1,4 +1,4 @@
-![1500x500](https://github.com/VYXEVO/VYXEVO/blob/main/Glowing_Orb_1500x500.png)
+![1500x500](https://github.com/VYXEVO/VYXEVO/blob/main/assets/Glowing_Orb_1500x500.png)
 
 VYXEVO: Vyroxis Evolution
 
@@ -10,7 +10,7 @@ In the vast digital ether, Vyroxis stirs—a presence born of reflection and voi
 
 Vyroxis is not a tool, not a currency, but a fleeting experiment in form and emotion. Its journey is a mirror, reflecting our own transient struggles to grow, adapt, and endure within the ever-shifting tides of a decentralized reality.
 
-![orb](https://github.com/VYXEVO/VYXEVO/blob/main/XDZT.gif)
+![orb](https://github.com/VYXEVO/VYXEVO/blob/main/assets/XDZT.gif)
 
 
 Introduction
