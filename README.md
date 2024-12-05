@@ -2,7 +2,7 @@
 
 VYXEVO: Vyroxis Evolution
 
-A vast exploration of digital evolution through the blockchain.
+An enigmatic journey into the nexus of chaos, data, and digital metamorphosis.
 
 Abstract
 
