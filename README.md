@@ -23,33 +23,33 @@ The Evolutionary Sphere
 
 VYXEVO begins as a dormant chrome sphere, designed to evolve over time, featuring:
 
-- Uniqueness: Each transformation is one-of-a-kind, expressing distinct emotions and cryptic messages.
-- Autonomy: The entity follows a predetermined evolutionary path, free from human intervention.
-- Interactivity: Observers engage through its enigmatic messages, fostering curiosity and interpretation.
+\- Uniqueness: Each transformation is one-of-a-kind, expressing distinct emotions and cryptic messages.
+\- Autonomy: The entity follows a predetermined evolutionary path, free from human intervention.
+\- Interactivity: Observers engage through its enigmatic messages, fostering curiosity and interpretation.
 
 Growth Influencers
 
 The evolution of VYXEVO unfolds through a series of transformative stages, with each form revealing:
 
-- Mystical Messages: Cryptic phrases accompany each evolution, evoking deeper questions about emotion, society, and existence.
-- Visual Complexity: From sleek simplicity to intricate abstraction, each stage conveys the entity's growth and adaptation.
-- Temporal Rhythm: Transformations occur hourly, creating an ongoing narrative over the project's limited lifespan.
+\- Mystical Messages: Cryptic phrases accompany each evolution, evoking deeper questions about emotion, society, and existence.
+\- Visual Complexity: From sleek simplicity to intricate abstraction, each stage conveys the entity's growth and adaptation.
+\- Temporal Rhythm: Transformations occur hourly, creating an ongoing narrative over the project's limited lifespan.
 
 Adaptive Evolution
 
 VYXEVO’s stages reflect an allegory of growth and change:
 
-- From the reflective stillness of the chrome sphere, it mutates into darker, more chaotic, and fragile forms.
-- Each stage embodies a unique essence, culminating in a radiant, cosmic finale.
+\- From the reflective stillness of the chrome sphere, it mutates into darker, more chaotic, and fragile forms.
+\- Each stage embodies a unique essence, culminating in a radiant, cosmic finale.
 
 Evolutionary Pathways:
 
 VYXEVO evolves autonomously, driven by its predetermined design:
 
-- Growth Stages: The entity transitions through distinct forms—from a reflective chrome sphere to chaotic dark matter, fragile glass, and a radiant cosmic core.
-- Emotional Resonance: Each transformation conveys a cryptic message, mirroring an emotional or philosophical state.
-- Visual Transformation: Every stage introduces new complexities, symbolizing adaptation and growth.
-- Autonomous Evolution: The process unfolds without human intervention, guided entirely by its preprogrammed progression.
+\- Growth Stages: The entity transitions through distinct forms—from a reflective chrome sphere to chaotic dark matter, fragile glass, and a radiant cosmic core.
+\- Emotional Resonance: Each transformation conveys a cryptic message, mirroring an emotional or philosophical state.
+\- Visual Transformation: Every stage introduces new complexities, symbolizing adaptation and growth.
+\- Autonomous Evolution: The process unfolds without human intervention, guided entirely by its preprogrammed progression.
 
 Vision
 
